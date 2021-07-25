@@ -1,0 +1,20 @@
+/* common styles */
+body{
+  font-family: 'Inter', sans-serif;
+  text-transform: capitalize;
+}
+
+/* 1s section styles */
+.red{
+  color: red;
+}
+.bold-text{
+  font-size: 62px;
+}
+.button{
+  color: white;
+  text-decoration: none;
+  background-color: #44B564;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
