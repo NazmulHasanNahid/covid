@@ -11,10 +11,20 @@ body{
 .bold-text{
   font-size: 62px;
 }
+.bg-img{
+  background-image: url("../images/left-corona-bg.svg");
+  background-repeat: no-repeat;
+}
 .button{
   color: white;
   text-decoration: none;
   background-color: #44B564;
   padding: 10px 30px;
   border-radius: 20px;
+}
+.custom-color{
+  color:#44B564 ;
+}
+.text-align{
+  text-align: center;
 }
