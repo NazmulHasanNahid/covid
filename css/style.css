@@ -42,3 +42,16 @@ u{
   color: #44B564;
   font-weight: 600;
 }
+.covid-logo{
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.covid-2ndlogo{
+  background-image: url("../images/Symptoms-Corona.png");
+  background-repeat: no-repeat; 
+}
+.fa-mobile-alt{
+  color:#44B564 ;
+  font-size: 50px;
+}
