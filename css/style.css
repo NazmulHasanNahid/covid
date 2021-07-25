@@ -8,8 +8,12 @@ body{
 .red{
   color: red;
 }
+.medium-font{
+  font-size: 22px;
+}
 .bold-text{
   font-size: 62px;
+  font-weight: 700;
 }
 .bg-img{
   background-image: url("../images/left-corona-bg.svg");
@@ -27,4 +31,7 @@ body{
 }
 .text-align{
   text-align: center;
+}
+.fa-arrow-right{
+  width: 10px;
 }
